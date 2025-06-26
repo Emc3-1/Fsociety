@@ -1,4 +1,2 @@
 telegram
-asyncio
-select
-threading
+python-telegram-bot
