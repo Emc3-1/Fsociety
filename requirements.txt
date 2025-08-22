@@ -1,2 +1,14 @@
+asyncio
+io
+json
+logging
+os
+re
+time
+datetime
+typing
+httpx
+PIL
 telegram
-python-telegram-bot
+telegram.constants
+telegram.ext
