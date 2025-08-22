@@ -7,8 +7,12 @@ re
 time
 datetime
 typing
-httpx
+httpx>=0.24
 PIL
 telegram
 telegram.constants
 telegram.ext
+
+python-telegram-bot>=21.4,<22
+Pillow>=9.0
+moviepy>=1.0.3
