@@ -7,6 +7,7 @@
 
 
 ## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Emc618)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sh_369_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23034536) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayanmoraveji1386@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,5 +16,3 @@
 <!--![](https://github-readme-stats.shion.dev/api?username=Emc3-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://streak-stats.demolab.com/?user=Emc3-1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Emc3-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
