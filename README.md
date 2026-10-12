@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-Emc618-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Emc618)
+[![Telegram](https://img.shields.io/badge/Telegram-Emc618-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Emc618)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sh_369_) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23034536)
 
